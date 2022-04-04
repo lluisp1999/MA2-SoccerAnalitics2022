@@ -43,8 +43,8 @@ List of topics we could treat:
     iv) Predictability of the match. How predictable was this weird result happened? Also like this approach but I feel it may be a bit vague. Predictability of a match as a whole may be too much for the scope of our work
   
  - Lluís
-  - Effect of changes in the game.
-  - Create our own ratings of the players and compare them to the ones that are published in different media.
-  - Deffensive mistakes: Why did Spain commit the first error? Was it due by full preassure? Why Spain conceeded 2 goals in the last 7 minutes?
-  - It would be cool to create some "probabilities of this shoot to actually be a goal" as Microsoft does.
+    - Effect of changes in the game.
+    - Create our own ratings of the players and compare them to the ones that are published in different media.
+    - Deffensive mistakes: Why did Spain commit the first error? Was it due by full preassure? Why Spain conceeded 2 goals in the last 7 minutes?
+    - It would be cool to create some "probabilities of this shoot to actually be a goal" as Microsoft does.
   
