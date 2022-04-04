@@ -20,7 +20,7 @@ List of topics we could treat:
   - Traditional Analysis: 
     - General overview (like the thing that is already done in every applications to see number of shots, yellow cards...) 
     - Make duels: Modric vs Busquets
-    - Passes: Networks of pass, passing sequences (ABA, ABAC...), Directions of passing
+    - Passes: Networks of pass, passing sequences (ABA, ABAC...), Directions of passing (it would be nice to see if this trend changes depending on the score of the match)
     - Shots: maps of all shots, expected goals
   - Tools: The gitlab contains a lot of tutorials to create graphs (passing networks, xG): https://gitlab.ethz.ch/socceranalytics/uefa-euro-2020/-/wikis/Data-and-Tools
 - Martí
