@@ -23,3 +23,8 @@ List of topics we could treat:
     - Passes: Networks of pass, passing sequences (ABA, ABAC...), Directions of passing
     - Shots: maps of all shots, expected goals
   - Tools: The gitlab contains a lot of tutorials to create graphs (passing networks, xG): https://gitlab.ethz.ch/socceranalytics/uefa-euro-2020/-/wikis/Data-and-Tools
+- Martí
+  - Comparison between statistics of the each team in the whole competition and this particular match.
+  - Discuss the different amount of completed passes of each team and analyse if it had a direct impact on possession, shots and goals.
+  - A creative thing would be to come up with a score for each player to pick the best player of the match objectively. I don't know if we can use other games' statistics for this.
+  - I would also like to see the real played time in this game, and if the % of played time respect the real time decreases as the game progresses (tiredness, a team losing time, etc.)
